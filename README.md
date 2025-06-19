@@ -13,7 +13,7 @@ This is the only practical way to share the full project without requiring users
 ## Download Links
 
 **Google Drive Link with Complete Project Files:**
-[INSERT GOOGLE DRIVE LINK HERE]
+https://drive.google.com/drive/folders/1NQu3Ib75VqI5yH8nh0w1aWWySIZtz0eS?usp=sharing
 
 Download all components from the Google Drive link above.
 
